@@ -1,0 +1,39 @@
+{
+  "persons": [
+    {
+      "name": "Arto Hellas",
+      "number": "012341231241",
+      "id": "1"
+    },
+    {
+      "name": "Ada Lovelace",
+      "number": "39-44-5323523",
+      "id": "2"
+    },
+    {
+      "name": "Dan Abramov",
+      "number": "044123123",
+      "id": "3"
+    },
+    {
+      "name": "Mary Poppendieck",
+      "number": "39-23-6423122",
+      "id": "4"
+    },
+    {
+      "id": "d60f",
+      "name": "Angelo Li",
+      "number": "1234124125"
+    },
+    {
+      "id": "bdb5",
+      "name": "Anna Li",
+      "number": "041231231"
+    },
+    {
+      "id": "492b",
+      "name": "Mum",
+      "number": "404123123"
+    }
+  ]
+}
